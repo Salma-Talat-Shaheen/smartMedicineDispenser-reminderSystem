@@ -21,7 +21,7 @@ An Arduino-Uno-based embedded system designed to automate medication schedules. 
 
 ##  System Logic (Flowchart)
 <p align="center">
-  <img src="[assets/your-image-name.png](https://github.com/Salma-Talat-Shaheen/smartMedicineDispenser-reminderSystem/blob/main/assets/Flowchart.png)" alt="Project Logic" width="600">
+  <img src="https://github.com/Salma-Talat-Shaheen/smartMedicineDispenser-reminderSystem/blob/main/assets/Flowchart.png" alt="Project Logic" width="600">
 </p>
 The system follows a strict operational flow to ensure reliability:
 
