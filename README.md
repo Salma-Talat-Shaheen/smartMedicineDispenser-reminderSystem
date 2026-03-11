@@ -1,5 +1,9 @@
 # 💊 Smart Medicine Dispenser & Reminder System
 
+<p align="center">
+  <img src="https://github.com/Salma-Talat-Shaheen/smartMedicineDispenser-reminderSystem/blob/main/assets/Circuit%20Diagram.png" alt="Project Logic" width="600">
+</p>
+
 ## Project Description
 An Arduino-Uno-based embedded system designed to automate medication schedules. It features a structured multi-mode interface and a physical dispensing mechanism, ensuring patients take their medication exactly on time through a **User-Acknowledgment** safety loop.
 
@@ -16,6 +20,9 @@ An Arduino-Uno-based embedded system designed to automate medication schedules. 
 ---
 
 ##  System Logic (Flowchart)
+<p align="center">
+  <img src="[assets/your-image-name.png](https://github.com/Salma-Talat-Shaheen/smartMedicineDispenser-reminderSystem/blob/main/assets/Flowchart.png)" alt="Project Logic" width="600">
+</p>
 The system follows a strict operational flow to ensure reliability:
 
 1.  **Initialization:** Setup I/O, LCD, and calibrate Servo.
