@@ -29,7 +29,7 @@ The system follows a strict operational flow to ensure reliability:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 * **Safety Lock:** The alarm (Buzzer/LED/Servo) will NOT stop automatically; it requires manual confirmation.
 * **Dynamic Messaging:** LCD toggles between the clock and health-encouraging messages (e.g., "Get Well, Salma!").
 * **Absolute Positioning:** Fixed UI layout to prevent character overlap on the LCD.
@@ -42,7 +42,3 @@ The system follows a strict operational flow to ensure reliability:
 * `/sim`: Proteus ISIS schematic files.
 * `/docs`: Project report and high-level Flowchart.
 
----
-
-## 👩‍💻 Developed By
-**Salma T. S. Shaheen** *ID: 220210654* *Embedded Systems Course - UCAS*
